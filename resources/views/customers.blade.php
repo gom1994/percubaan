@@ -1,6 +1,6 @@
 @extends('layout')
 
-@section('content')
+@section('isi')
     <h1>CUSTOMER</h1>
 
     <ul>

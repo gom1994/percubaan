@@ -2,6 +2,6 @@
 
 @section('isi')
 
-    <h1>Hello</h1>
+    <h1>Selamat Datang</h1>
 
 @endsection
